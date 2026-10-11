@@ -81,7 +81,7 @@ AI-Autonomous-Navigation-System/
 ## Installation
 
 ```bash
-git clone https://github.com/TODO-YOUR-USERNAME/AI-Autonomous-Navigation-System.git
+git clone https://github.com/yaswitha-kamakshi/AI-Autonomous-Navigation-System.git
 cd AI-Autonomous-Navigation-System
 python -m venv venv
 venv\Scripts\activate        # Windows (macOS/Linux: source venv/bin/activate)
@@ -116,8 +116,8 @@ python manual_drive.py      # manual driving test
 
 | Algorithm | Path cost (cells) | Nodes expanded |
 |---|---|---|
-| A* | TODO | TODO |
-| Dijkstra | TODO | TODO |
+| A* | 111.1 | 1699 |
+| Dijkstra | 111.1 | 4004 |
 
 Both find an optimal route of the same cost; A* expands far fewer nodes.
 
